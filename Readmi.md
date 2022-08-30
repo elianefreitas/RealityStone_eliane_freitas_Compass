@@ -1,2 +1,3 @@
 ## Comandos
-comandos usados
+comandos mais usados
+git init para iniciar na pasta locar

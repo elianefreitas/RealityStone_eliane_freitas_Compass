@@ -6,7 +6,6 @@ def imc(peso, altura)
 end
 
 describe('Calculo do IMC') do
-   
    it('deve calcular peso e altura corretos') do
       peso = 60
       altura = 1,70

@@ -3,7 +3,6 @@
    * [ Sobre ](#Sobre)
    * [ Requisitos ](#Requisitos)
    * [ Instalação ](#Instalação)
-   * [ Ultilização ](#Ultilização)
   
  ####  Sobre
 Desenvolvimento de calculadora em Ruby utilizando TDD

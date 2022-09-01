@@ -1,18 +1,18 @@
 ##  Calculadora Ruby
 
    * [ Sobre ](#Sobre)
-   * [ Requisitos e ferramentas ](#Requisitos e ferramentas)
+   * [ Requisitos ](#Requisitos)
    * [ Instalação ](#Instalação)
    * [ Ultilização ](#Ultilização)
   
  ####  Sobre
 Desenvolvimento de calculadora em Ruby utilizando TDD
 
-####  Requisitos e ferramentas
- -Ruby
- -vs code
- -github
- -cmder
+####  Requisitos 🛠
+ - Ruby
+ - vs code
+ - github
+ - cmder
  
 ####  Instalação
 * Etapa 1: fazer clone do projeto

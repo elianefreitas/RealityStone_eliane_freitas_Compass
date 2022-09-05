@@ -17,7 +17,7 @@ Desenvolvimento de calculadora em Ruby utilizando TDD
 ####  Instalação 💻
 - ✔ Ruby http://rubyinstaller.org/downloads/
 - ✔ vs code https://code.visualstudio.com/ <p>
-    Instalarasseguintesextensões:
+    Instalarasse as seguintes exteções:
     - Ruby
     - SnippetsandSyntaxHighlightforGherkin(Cucumber)
     - GherkinIndent

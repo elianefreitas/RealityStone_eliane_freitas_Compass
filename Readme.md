@@ -36,4 +36,6 @@ Desenvolvimento de calculadora em Ruby utilizando TDD
   git clone https://github.com/elianefreitas/RealityStone_eliane_freitas_Compass.git
   ```
  ### Referências
- Dicas dos colegas Emerson, Bruno e Maiara
+ #Dicas dos colegas 
+ - Emerson que ajudou no merg
+ - Bruno e Maiara no inicio dos videos que ajudaram a entender comandos git e github

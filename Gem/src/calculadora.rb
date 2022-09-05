@@ -1,36 +1,36 @@
 class Calculadora
   
-  def soma(num_x, num_y)
-    num_x + num_y
+  def soma(a, b)
+    a + b
   end
 
-  def subtrair(num_x, num_y)
-    num_x - num_y
+  def subtrair(a, b)
+    a - b
   end
 
-  def dividir(num_x, num_y)
-    num_x / num_y
+  def dividir(a, b)
+    a / b
   end
 
-  def multiplicar(num_x, num_y)
-    num_x * num_y
+  def multiplicar(a, b)
+    a * b
   end
 
-  def potencial(num_x, num_y)
+  def potencial(a, b)
     if a or b < 0
-     return (num_x**num_y.to_f).round(6)
+     return (a**b.to_f).round(1)
     end
-    (num_x ** num_y)
+    (a ** b)
   end
 
-  def quad(num_x)
+  def quad(a)
     return "null" if a < 1
-    resultado = Math.sqrt(num_x)
+    resultado = Math.sqrt(a)
     resultado.round(1)         
   end
 
-  def porcentagem(num_x, num_y)
-    num_x * num_y / 100
+  def porcentagem(a, b)
+    a * b / 100
   end
 
 end  
